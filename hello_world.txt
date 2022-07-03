@@ -1,0 +1,1 @@
+Learning the usage of git through command line
